@@ -4,7 +4,7 @@
 import java.util.Scanner;
 
 public class Lista2tarefa1 {
-	public static void main(String args[]) {
+	public static void main(String args[]) {   
 
 	       Scanner read = new Scanner(System.in);
 
