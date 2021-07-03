@@ -25,6 +25,6 @@ public class Lista2tarefa4 {
 			System.out.printf("A potência é: "+ potencia);
 		}
 
-	}
+	}   
 
 }
